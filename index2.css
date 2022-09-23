@@ -1,0 +1,179 @@
+@import url('https://fonts.gogleapis.com/css2?family-Roboto:wght@400;500;700;900&display=swap');
+
+body {
+    background:  linear-gradient(rgba(0, 0, 0, 0.4),rgba(0,0,0,0.4)), url(fone2.png)  no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+
+}
+
+
+.glavna {
+    position: relative;
+    left: 210px;
+    top: 45px;
+    text-decoration: none;
+    color: white;
+    border: 2px pink solid;
+    border-radius: 100px;
+    padding: 10px 20px;
+    font-size: 13px;
+}
+
+.onas {
+    position: relative;
+    left: 250px;
+    top: 45px;
+    text-decoration: none;
+    color: white;
+    border: 2px pink solid;
+    border-radius: 100px;
+    padding: 10px 25px;
+    font-size: 13px;
+}
+
+
+.katalog {
+    position: relative;
+    left: 290px;
+    top: 45px;
+    text-decoration: none;
+    color: white;
+    border: 2px pink solid;
+    border-radius: 100px;
+    padding: 10px 20px;
+    font-size: 13px;
+}
+
+.otziv {
+    position: relative;
+    left: 330px;
+    top: 45px;
+    text-decoration: none;
+    color: white;
+    border: 2px pink solid;
+    border-radius: 100px;
+    padding: 10px 20px;
+    font-size: 13px;
+}
+
+.profil {
+    font-weight: bolder;
+    position: relative;
+    left: 950px;
+    top: 25px;
+
+}
+
+.reg {
+    color: #ffffff;
+    font-size: 17px;
+    position: relative;
+    right: 20px;
+}
+
+.vhod {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 17px;
+    position: relative;
+    right: 10px;
+    border: 2px pink solid;
+    border-radius: 100px;
+    padding: 5px 10px;
+
+}
+
+.pered {
+    position: relative;
+    left: 210px;
+    top: 200px;
+
+}
+
+.vkatalog {
+    text-decoration: none;
+    color: white;
+    border: 3px pink solid;
+    border-radius: 100px;
+    padding: 15px 20px;
+    position: relative;
+    top: 243px;
+    right: 107px;
+    font-size: 18px;
+}
+
+.youtube {
+    position: relative;
+    top: 93px;
+    left: 534px;
+}
+
+.insta {
+    position: relative;
+    top: 93px;
+    left: 577px;
+
+}
+
+.facebook {
+    position: relative;
+    top: 93px;
+    left: 619px;
+
+}
+
+.vk {
+    position: relative;
+    top: 93px;
+    left: 662px;
+}
+
+.glavna:hover {
+    background: pink;
+    color: rgb(255, 0, 0);
+    border: 2px white solid;
+}
+
+.onas:hover {
+    background: pink;
+    color: rgb(255, 0, 0);
+    border: 2px white solid;
+}
+
+.otziv:hover {
+    background: pink;
+    color: rgb(255, 0, 0);
+    border: 2px white solid;
+}
+
+.katalog:hover {
+    background: pink;
+    color: rgb(255, 0, 0);
+    border: 2px white solid;
+}
+
+.vhod:hover {
+    background: pink;
+    color: rgb(255, 0, 0);
+    border: 2px white solid;
+}
+
+.reg:hover {
+    color: rgb(255, 0, 0);
+}
+
+.h2text {
+    margin-top: 210px;
+    margin-left: 215px;
+    margin-right: 215px;
+    padding: 30px 10px;
+    color: white;
+    border-radius: 25px;
+}
+
+.h2text {
+    background: rgba(0, 0, 0, 0.7);
+
+}
